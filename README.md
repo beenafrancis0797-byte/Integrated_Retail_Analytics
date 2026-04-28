@@ -50,3 +50,36 @@ This project addresses these challenges through integrated analytics and ML mode
 ---
 
 ## Project Workflow
+
+Integrated_Retail_Analytics/
+│
+├── IRA/
+│   ├── Integrated Retail Project.ipynb   # Main analysis notebook
+│   └── requirements.txt                  # Dependencies
+└── README.md
+
+---
+
+## How to Run
+
+```bash
+# Clone the repository
+git clone https://github.com/beenafrancis0797-byte/Integrated_Retail_Analytics.git
+
+# Navigate to the project folder
+cd Integrated_Retail_Analytics/IRA
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Open the notebook
+jupyter notebook "Integrated Retail Project.ipynb"
+```
+
+---
+
+## Author
+
+**Beena Francis**
+📧 beenafrancis0797@gmail.com
+💼 Open to Data Analyst & Data Science opportunities
